@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on My New Hugo Site</title>
+    <link>http://example.org/category/blog/</link>
+    <description>Recent content in blog on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Mar 2021 18:12:46 +0300</lastBuildDate><atom:link href="http://example.org/category/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Do digital tools make us dumb? </title>
+      <link>http://example.org/posts/c/</link>
+      <pubDate>Mon, 01 Mar 2021 18:12:46 +0300</pubDate>
+      
+      <guid>http://example.org/posts/c/</guid>
+      <description>recent studies showed that bla bla&amp;hellip;..</description>
+    </item>
+    
+    <item>
+      <title>Data driven interventions in education</title>
+      <link>http://example.org/posts/f/</link>
+      <pubDate>Mon, 01 Mar 2021 18:07:24 +0300</pubDate>
+      
+      <guid>http://example.org/posts/f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The underpinning theories of learning analytics </title>
+      <link>http://example.org/posts/e/</link>
+      <pubDate>Mon, 01 Mar 2021 18:07:18 +0300</pubDate>
+      
+      <guid>http://example.org/posts/e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensuring student engagement online. Tips and strategies.</title>
+      <link>http://example.org/posts/d/</link>
+      <pubDate>Mon, 01 Mar 2021 18:06:35 +0300</pubDate>
+      
+      <guid>http://example.org/posts/d/</guid>
+      <description>some content inside d file</description>
+    </item>
+    
+  </channel>
+</rss>
