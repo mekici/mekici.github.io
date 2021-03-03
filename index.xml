@@ -9,11 +9,29 @@
     <lastBuildDate>Mon, 01 Mar 2021 21:26:30 +0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Do digital tools make us dumb? </title>
-      <link>http://example.org/posts/c/</link>
+      <link>http://example.org/posts/g/</link>
       <pubDate>Mon, 01 Mar 2021 18:12:46 +0300</pubDate>
       
-      <guid>http://example.org/posts/c/</guid>
+      <guid>http://example.org/posts/g/</guid>
       <description>recent studies showed that bla bla&amp;hellip;..</description>
+    </item>
+    
+    <item>
+      <title>Do digital tools make us dumb? </title>
+      <link>http://example.org/posts/k/</link>
+      <pubDate>Mon, 01 Mar 2021 18:12:46 +0300</pubDate>
+      
+      <guid>http://example.org/posts/k/</guid>
+      <description>recent studies showed that bla bla&amp;hellip;..</description>
+    </item>
+    
+    <item>
+      <title>Data driven interventions in education</title>
+      <link>http://example.org/posts/ana/</link>
+      <pubDate>Mon, 01 Mar 2021 18:07:24 +0300</pubDate>
+      
+      <guid>http://example.org/posts/ana/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -22,6 +40,24 @@
       <pubDate>Mon, 01 Mar 2021 18:07:24 +0300</pubDate>
       
       <guid>http://example.org/posts/f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data driven interventions in education</title>
+      <link>http://example.org/posts/h/</link>
+      <pubDate>Mon, 01 Mar 2021 18:07:24 +0300</pubDate>
+      
+      <guid>http://example.org/posts/h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The underpinning theories of learning analytics </title>
+      <link>http://example.org/posts/baba/</link>
+      <pubDate>Mon, 01 Mar 2021 18:07:18 +0300</pubDate>
+      
+      <guid>http://example.org/posts/baba/</guid>
       <description></description>
     </item>
     
@@ -35,11 +71,29 @@
     </item>
     
     <item>
+      <title>The underpinning theories of learning analytics </title>
+      <link>http://example.org/posts/i/</link>
+      <pubDate>Mon, 01 Mar 2021 18:07:18 +0300</pubDate>
+      
+      <guid>http://example.org/posts/i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ensuring student engagement online. Tips and strategies.</title>
       <link>http://example.org/posts/d/</link>
       <pubDate>Mon, 01 Mar 2021 18:06:35 +0300</pubDate>
       
       <guid>http://example.org/posts/d/</guid>
+      <description>some content inside d file</description>
+    </item>
+    
+    <item>
+      <title>Ensuring student engagement online. Tips and strategies.</title>
+      <link>http://example.org/posts/j/</link>
+      <pubDate>Mon, 01 Mar 2021 18:06:35 +0300</pubDate>
+      
+      <guid>http://example.org/posts/j/</guid>
       <description>some content inside d file</description>
     </item>
     
